@@ -14,6 +14,6 @@ dependencies {
     api project(':aws-android-sdk-auth-core')
     api project(':aws-android-sdk-cognitoidentityprovider')
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'androidx.annotation:annotation:1.9.1'
 }
 

@@ -14,7 +14,7 @@ android {
 
 dependencies {
     api 'com.google.code.gson:gson:2.8.9'
-    implementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'androidx.annotation:annotation:1.9.1'
 
     testImplementation 'joda-time:joda-time:2.8.1'
     testImplementation 'junit:junit:4.13.2'
